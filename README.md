@@ -17,7 +17,5 @@
 # Notification
 
 - The size of the datasets are too large, thus, the catenated dataset isn't uploaded, if anyone need it, please contact me: sc1f2w@leeds.ac.uk
-- 
 - The simulation data can be generated through the python program: Data_generator.py in the folder of Part1
-- 
 - The shell application is able to run directly
