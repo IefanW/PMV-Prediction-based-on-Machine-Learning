@@ -4,6 +4,8 @@
 
 - python: 3.7
 
+- NumPy: 1.16.4
+
 - Keras: 2.4.3
 
 - Pandas: 0.24.2
