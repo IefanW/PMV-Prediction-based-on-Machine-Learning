@@ -1,6 +1,6 @@
 # PMV-Prediction-based-on-Machine-Learning
 
-# Requirement
+# Requirements
 
 - python: 3.7
 
