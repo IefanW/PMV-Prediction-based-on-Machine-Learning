@@ -1,6 +1,6 @@
 # PMV-Prediction-based-on-Machine-Learning
 
-# Version Ceiteria
+# Requirement
 
 - python: 3.7
 
